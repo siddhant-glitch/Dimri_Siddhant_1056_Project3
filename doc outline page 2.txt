@@ -1,0 +1,8 @@
+1. Contact Page
+    1.Logo
+    2.Main nav
+    3.Heading
+    4.Text
+    5.Contact Form
+    6.Submit button
+    7.Footer Nav

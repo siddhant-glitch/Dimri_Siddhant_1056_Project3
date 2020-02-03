@@ -1,0 +1,11 @@
+1. Home Page
+     1. Logo
+     2. Main Nav
+     3. Promo Image
+     4. Promo Image and Text
+     5. Text
+     6. Product container
+        1.Product 1(photo and info)
+        2.Product 2(photo and info)
+        3.Product 3(photo and info)
+     7. Footer Navfdf
